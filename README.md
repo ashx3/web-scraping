@@ -41,5 +41,5 @@ Beautiful Soup is a Python library that is used for web scraping purposes to pul
 Which language is best for web scraping?<br>
 Python is mostly known as the best web scraper language. It's more like an all-rounder and can handle most of the web crawling related processes smoothly. Beautiful Soup is one of the most widely used frameworks based on Python that makes scraping using this language such an easy route to take.
 
-What's the different between web scraping and data mining?<br>
+What's the difference between web scraping and data mining?<br>
 Web scraping refers to the process of extracting data from web sources and structuring it into a more convenient format whereas data mining refers to the process of analyzing large datasets to uncover trends and valuable insights. It does not involve any data gathering or extraction.
