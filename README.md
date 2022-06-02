@@ -26,6 +26,10 @@ In this project, there will be two ipython notebooks with suffix 'raw' and 'fina
 - __final__ contains only the commands that are necessary which will be an clean experience to view without much comments. It will be an full-fledged version of the raw version
 - v1, v2, v3 refers to checkpoints on which the files were saved. Files were saved on different extensions to showcase that the data can be stored in multiple variants as well
 
+# How API works
+
+![API](/images/ws/api.jpg)
+
 # FAQs
 
 __Why should we do web scraping?__<br>
