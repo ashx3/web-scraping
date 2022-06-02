@@ -36,7 +36,7 @@ __Why should we do web scraping?__<br>
 That is a good question, web scraping is a integral tool for every business because it allows quick and efficient extraction of data in the form of news from different sources. Such data can then be processed in order to glean insights as required. As a result, it also makes it possible to keep track of the brand and reputation of a company.
 
 __Is it legal?__<br>
-It is perfectly legal if you scrape data from websites for public consumption and use it for analysis. However, it is not legal if you scrape confidential information for profit. For example, scraping private contact information without permission and sell them to a 3rd party for profit is illegal. However you can know your web scraping limits by searching the robots.txt file of the website in google like amazon robots.txt and you can find out what you can do and what might get you in trouble!
+It is perfectly legal if you scrape data from websites for public consumption and use it for analysis. However, it is not legal if you scrape confidential information for profit. For example, scraping private contact information without permission and sell them to a 3rd party for profit is illegal. However you can know your web scraping limits by searching the robots.txt file of the website in google like "amazon robots.txt" and you can find out what you can do and what might get you in trouble!
 
 __What is BeautifulSoup?__<br>
 Beautiful Soup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files. It creates a parse tree from page source code that can be used to extract data in a hierarchical and more readable manner
