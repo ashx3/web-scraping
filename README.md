@@ -4,7 +4,8 @@ Here, we will scrape data from websites and convert the data into a workable pyt
 
 ![Web-Scraping](/images/web_scraping.jpg)
 
-In this project, we will scrape the list of all Walt Disney Movies in Wikipedia website. As we all know Wikipedia is the source of every known information, so we shall use it for the same.<br>
+In this project, we will scrape the list of all Walt Disney Movies in Wikipedia website.<br
+As we all know Wikipedia is the source of every known information, so we shall use it for the same.<br>
 __Target Website: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films__
 
 ![Wikipedia](/images/wiki_logo.jpg)
